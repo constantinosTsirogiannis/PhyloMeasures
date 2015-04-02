@@ -7,7 +7,6 @@ PhyloMeasures provides functions for computing the value and the statistical mom
 
 The main advantages of PhyloMeasures are: 
 
-    1) The package provides exact computation of the statistical moments and the standardised values for several phylogenetic biodiversity measures.
-
-    2) All functions provided in PhyloMeasures are designed to be very efficient in practice, and they can process in a few seconds even trees that consist of a few hundred thousand tips.  The package functions are developed based on standard principles in Algorithms Design, hence their performance scales ideally as the size of the input trees increases.
-
+ 1) The package provides exact computation of the statistical moments and the standardised values for several phylogenetic biodiversity measures.
+ 
+ 2) All functions provided in Phylomeasures are designed to be very efficient in practice, and they can process in a few seconds even trees that consist of several hundred thousand tips. The package functions are developed based on standard techniques in Algorithms Design, hence their performances scales ideally as the size of the input trees increases.
